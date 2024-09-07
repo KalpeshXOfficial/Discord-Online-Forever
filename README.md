@@ -5,12 +5,15 @@
 
   <h3 align="center">Best-README-Template</h3>
 
+<hr>
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -28,9 +31,7 @@
 
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
 [contributors-url]: https://github.com/KalpeshXOfficial/Discord-Online-Forever/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/KalpeshXOfficial/Discord-Online-Forever.svg?style=for-the-badge
