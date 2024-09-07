@@ -3,7 +3,7 @@
     <img src="images/profile.png" alt="Discord Online Forever">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h1 align="center">Discord Online Forever</h1>
 
 <hr>
 
@@ -11,12 +11,12 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Keep Your Discord Account Online 24/7 Forever!
     <br />
     <a href="https://github.com/KalpeshXOfficial/Discord-Online-Forever"><strong>Explore the docs »</strong></a>
     <br />
