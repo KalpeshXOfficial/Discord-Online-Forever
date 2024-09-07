@@ -1,15 +1,31 @@
-# Discord-Online-Forever
-Keep ypou Discord profile online forever
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-1. Register Replit - https://Replit.com
-2. Run on Replit - https://replit.com/new/github/Gunthersuper/Discord-Online-Forever
-3. Get Token of your Discord:
-  - Login to your Discord in the browser
-  - Press: CTRL+SHITT+I or F12. Go to Network. Click some dialogue or some server
-  - Find sciense. Go to Headers. In request headers find: authorization. Copy this token
-4. Go to replit, secrets. make new secret. Key is token, and value is your token
-5. Run the bot
-6. Go to https://uptimerobot.com, register. Click: Add new moinitor
-7. Monitor type is HTTP. Url is address you get on replit. Click create monitor (2 times)
-8. Make sure the last session you was online
-# Discord-Online-Forever
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Best-README-Template</h3>
+
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
